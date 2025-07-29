@@ -11,6 +11,9 @@ function Signup() {
       description1="Master today, lead tomorrow."
       description2="Empowering you with skills that stand the test of time"
       image={signupImg}
+
+
+      
       formType="signup"
     />
     )

@@ -18,6 +18,13 @@ const ResetPassword = () => {
             }
         else{
             alert("Passwords do not match")
+
+
+
+
+
+
+            
         }
 
         
